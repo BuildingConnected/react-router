@@ -1,5 +1,5 @@
 {
-  "name": "react-router",
+  "name": "@buildingconnected/react-router",
   "version": "1.0.2",
   "description": "A complete routing library for React.js",
   "files": [
